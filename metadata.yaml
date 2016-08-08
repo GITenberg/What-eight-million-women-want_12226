@@ -1,0 +1,28 @@
+_repo: What-eight-million-women-want_12226
+_version: 0.0.1
+alternative_title: What 8 million women want
+creator:
+  author:
+    agent_name: Dorr, Rheta Childe
+    aliases:
+    - Childe, Rheta Louise
+    - Child, Reta Louise
+    birthdate: 1866
+    deathdate: 1948
+    gutenberg_agent_id: '4264'
+    url: http://www.gutenberg.org/2009/agents/4264
+description: Cover -- Contents.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+- GITenberg
+title: What eight million women want
+url: http://www.gutenberg.org/ebooks/12226
